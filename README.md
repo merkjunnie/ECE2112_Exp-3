@@ -18,18 +18,18 @@ This programming assignment covers the basics of data manipulation using the Pan
 3. Open `Aparicio_Pandas-P1` or `Aparicio_Pandas-P2`.
 4. Execute the codes
 ## Usage
-(Describe how to use your project, including code examples or screenshots.)
+### Data Set:
 
+### Running the Scripts
+1. Open a terminal or command prompt.
+2. Navigate to the project directory.
+3. Execute the Python script:
+4. Download 
+```
+```
 ## Contact
-For any questions or feedback, please reach out to:
-Name: [John Mark Aparicio]
-Email: [johnmarkaparicio.eng@ust.edu.ph]
-GitHub: [Your GitHub Profile]
+For any questions or feedback, please reach out to:<br>
+Name: John Mark Aparicio<br>
+Email: (johnmarkaparicio.eng@ust.edu.ph)<br>
+GitHub: (https://github.com/merkjunnie)
 
-
-
-```
-git status
-git add
-git commit
-```
