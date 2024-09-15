@@ -9,12 +9,22 @@ This programming assignment covers the basics of data manipulation using the Pan
 - Use Pandas data structures such as Series and DataFrames.
 - Perform basic data manipulation tasks, including selecting, filtering, and modifying data.
 - Understand the essential functions and methods in Pandas that will help you transform raw data into a structured format for analysis.
-## Intended Learning Outcomes
-By the end of this assignment, you should be able to:
-- Identify the functions and methods available in the Pandas library.
-- Apply these functions to manipulate and analyze data effectively using Python.
-## Installation and Setup
+## Setup
+1. Install Jupyter Notebook through [Anaconda Navigator](https://www.anaconda.com/download) or directly from their [website](https://jupyter.org)
+2. Run the following command to start Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+3. Open `Aparicio_Pandas-P1` or `Aparicio_Pandas-P2`.
+4. Execute the codes
+## Usage
+(Describe how to use your project, including code examples or screenshots.)
 
+## Contact
+For any questions or feedback, please reach out to:
+Name: [John Mark Aparicio]
+Email: [johnmarkaparicio.eng@ust.edu.ph]
+GitHub: [Your GitHub Profile]
 
 
 
