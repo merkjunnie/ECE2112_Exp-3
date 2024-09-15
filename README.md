@@ -16,14 +16,14 @@ This programming assignment covers the basics of data manipulation using the Pan
 jupyter notebook
 ```
 4. Download `cars.csv`.
-5. Open `Aparicio_Pandas-P1.ipynb` or `Aparicio_Pandas-P2.ipynb`.
+5. Open `Aparicio_Pandas-P1.ipynb` or `Aparicio_Pandas-P2.ipynb` within the same file directory as `cars.csv`.
 6. Execute the codes
 ## 🐼&nbsp;&nbsp;Usage
 Access the data by inputting the following command:
 ```
 pd.read_csv('cars.csv')
 ```
-_This is will allow you to access the data that will be used_
+_This is will allow you to access the data that will be used as you perform data manipulation tasks_
 > [!NOTE]
 > Dataframes follow **zero-based indexing**, which means the counting of both row and columns start from 0.
 ### Running the Scripts
