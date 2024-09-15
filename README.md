@@ -1,6 +1,6 @@
 # **Hello PANDAS!!** 
 ## 🐼&nbsp;&nbsp;Overview
-Welcome to the Python Data Analysis (PANDAS) assignment! If you've ever wondered how data scientists wrangle massive datasets with ease, you're in for a treat. In this assignment, you'll dive deep into the powerful Pandas library, a must-have tool in the world of data analysis and manipulation.
+Welcome to the **Python Data Analysis (PANDAS)** assignment! If you've ever wondered how data scientists wrangle massive datasets with ease, you're in for a treat. In this assignment, you'll dive deep into the powerful Pandas library, a must-have tool in the world of data analysis and manipulation.
 ## 🐼&nbsp;&nbsp;It's Excel, but Make It... Pythonic!?
 Pandas is like Excel’s cool sibling—it can handle data efficiently, whether it's just a few rows or millions of them, but with the full power and flexibility of Python. It makes data handling in Python simple, efficient, and fun because it equips you with intuitive and flexible tools to manipulate, clean, and analyze data. In this assignment, you'll explore how to unlock the full potential of Pandas to turn raw data into actionable insights.
 ## 🐼&nbsp;&nbsp;The Basics
