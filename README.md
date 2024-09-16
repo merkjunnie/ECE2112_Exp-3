@@ -11,7 +11,7 @@ This programming assignment covers the basics of data manipulation using the Pan
 - Understand the essential functions and methods in Pandas that will help you transform raw data into a structured format for analysis.
 ## 🐼&nbsp;&nbsp;Setup
 1. Install Jupyter Notebook through [Anaconda Navigator](https://www.anaconda.com/download) or directly from their [website](https://jupyter.org)
-2. Run the following command to start Jupyter Notebook:
+2. Run the following command in the terminal to start Jupyter Notebook:
 ```
 jupyter notebook
 ```
