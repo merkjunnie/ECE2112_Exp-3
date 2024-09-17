@@ -16,7 +16,7 @@ This programming assignment covers the basics of data manipulation using the Pan
 jupyter notebook
 ```
 4. Download `cars.csv`.
-5. Open `Aparicio_Pandas-P1.ipynb` or `Aparicio_Pandas-P2.ipynb` within the same file directory as `cars.csv`.
+5. Open `Aparicio_Pandas-P1.py` and `Aparicio_Pandas-P2.py` within the same file directory as `cars.csv`.
 6. Execute the codes
 ## 🐼&nbsp;&nbsp;Usage
 Access the data by inputting the following command:
